@@ -1,0 +1,6 @@
+# Background
+I am a first year graduate student here at UT, majoring in Computer Science. I attended UT as an undergrad from 2015-2018 and graduated this past December with a degree in Computer Science as well. I have taken Software Engineering and Fundamentals of Digital Archaeology with Dr. Mockus.
+# Projects
+Over the break, I have been working on scraping repositories across Gitlab and Sourceforge. Ultimately, the goal is for these scraped repositories to be cloned and added to a larger database that already contains millions of other repositories. With this database, there arises several different opportunities to perform analysis on various aspects of the repositories. Some ideas include:
+- Creating a portal for external users to access this database in a meaningful way (i.e. allow them to narrow down repos/projects based on their interests). This would involve analysis of the repos themselves to determine what kind of software they offer, languages they use, activity levels, commits, etc.
+- Another approach to this dataset is a machine learning approach that attempts to determine the type of a file based on contents, files around it, and other information that we may have based on the database of repos.
