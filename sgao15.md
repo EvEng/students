@@ -5,4 +5,4 @@ My current thesis work is focused on the development of novel deep learning arch
 
 In this class, I'd like to get a better understanding of network analysis and graph-based approaches, as these are area that I am less familiar with.
 
-For my final project, I would like to work on a project related to my thesis work. This will most likely mean development of additional deep learning models for information extraction from cancer pathology reports.
+For my final project, I would like to work on a project related to my thesis work. This will most likely mean development of additional deep learning models for information extraction from cancer pathology reports. I plan incorporate any knowledge gained from the text analysis portion of this class.
